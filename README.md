@@ -1,4 +1,4 @@
-![Hyperloop-Lev cover](assets/cover.png)
+![Hyperloop-Lev cover](Hyperloop-Lev%20cover.png)
 
 # Hyperloop-Lev 🚄🌀
 
